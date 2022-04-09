@@ -52,7 +52,8 @@ social:
 
 # About Section
 blurb:
-  Tauke Indonesia adalah lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Platform P2P lending yang mendanai tengkulak untuk membeli hasil panen petani dan membantu petani memperoleh harga panen yang lebih baik.
+
 
 blurb-btn-link: '/tauke/about'
 blurb-btn-name: Tentang Tauke Selengkapnya
@@ -62,17 +63,17 @@ blurb-btn-name: Tentang Tauke Selengkapnya
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
+  - title : "Mitra Tengkulak"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Mitra trader membantu menjualkan hasil panen dengan mengambil proyek panen yang kami tawarkan. Mitra trader juga dapat menawarkan proyek panen Kepada tauke."
     
-  - title : "Design and Develop"
+  - title : "Taukefund"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Platform yang mensupport untuk mendanai proyek panen yang dilakukan oleh Tengkulak dengan sistem investasi per proyek panen."
     
-  - title : "Deliver"
+  - title : "Mitra Tani"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Mitra tani kami sebagai supplier menawarkan proyek panen kepada tauke."
 
 
 # My Team Section
@@ -130,19 +131,19 @@ services:
 - {
     name: Penanaman Modal,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Masyarakat dapat berinvestasi per proyek panen. Investasi yang ditawarkan tauke selain menjanjikan Return of Investment yang menarik juga membuka kesempatan untuk berinvestasi dengan tagar #PendanaanBerdampakSosial kepada petani Indonesia.',
     active: # Add true to select section
   }
 - {
     name: Logistik,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: true # Add true to select section
+    description: 'Layanan pengiriman barang dan ekspedisi tauke yang dapat melayani banyak rute pengiriman barang di Indonesia.',
+    active: # Add true to select section
   }
 - {
-    name: Blablabla,
+    name: E-commerce Produk Pertanian,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Layanan pemesanan dan pembelian hasil panen langsung dari petani.',
     active: # Add true to select section
   }
 
