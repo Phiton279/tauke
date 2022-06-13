@@ -107,6 +107,11 @@ a:hover {
 }
 
 .bg-primary {
+  background-image: url("../images/backgrounds/background_image.png")  !important;
+  background: $primary-color;
+}
+
+.bg-secondary {
   background: $primary-color !important;
 }
 

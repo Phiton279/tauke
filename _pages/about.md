@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Tentang Tauke
+title: Sukseskan Panen Petani Dengan Menjadi Tauke
 author: Tauke Dev
 # image: assets/images/about/author.jpg
 # signature: assets/images/about/signature.png
