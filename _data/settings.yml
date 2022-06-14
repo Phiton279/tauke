@@ -11,10 +11,10 @@ address: Siantar, North Sumatra, Indonesia
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: Tentang, link: '/tauke/about'}
-- {name: Blog, link: '/tauke/blog'}
-- {name: Proyek, link: '/tauke/portfolio'}
-- {name: Kontak, link: '/tauke/contact'}
+- {name: Tentang, link: '/about'}
+- {name: Blog, link: '/blog'}
+- {name: Proyek, link: '/portfolio'}
+- {name: Kontak, link: '/contact'}
 
 
 #-------------------------------
