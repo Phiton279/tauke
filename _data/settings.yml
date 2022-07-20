@@ -5,10 +5,10 @@ title: Tauke
 logo: "assets/images/about/logo_tauke.png"
 author: taukedev
 description: Platform Penanaman Modal Untuk Panen Petani
-email: toke@tauke.id
+email: tauke.indonesia@gmail.com
 phone: +62 8123456789
 address: Siantar, North Sumatra, Indonesia
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 202 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: Tentang, link: '/about'}
@@ -42,8 +42,8 @@ hero:
 
 social:
 - {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/tauke.indonesia/"}
+- {icon: "ti-youtube", link: "youtube.com/channel/UC9K74F8-xvVeqIdtrRvS3tw"}
 - {icon: "ti-twitter", link: "#"}
 
 
@@ -78,19 +78,25 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Jaro "
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+    designation : "Founder"
     
-  - title : "Julias Carlie"
+  - title : "Eben"
     image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+    designation : "Co-Founder"
     
-  - title : "John Doe"
+  - title : "Mario"
     image : "assets/images/team/member-3.png"
-    designation : "Designer"
+    designation : "Founder"
 
-
+  - title : "Ryan"
+    image : "assets/images/team/member-4.png"
+    designation : "Founder"
+  
+  - title : "Philip"
+    image : "assets/images/team/member-5.png"
+    designation : "Founder"
 #-------------------------------
 # Skills Section
 
@@ -240,20 +246,20 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  # - name: "Jesica Gomez"
+  #   image: "assets/images/testimonial/client-1.png"
+  #   designation : "CEO, Funder"
+  #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  # - name: "Jesica Gomez"
+  #   image: "assets/images/testimonial/client-1.png"
+  #   designation: "CEO, Funder"
+  #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  # - name: "Jesica Gomez"
+  #   image: "assets/images/testimonial/client-1.png"
+  #   designation: "CEO, Funder"
+  #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 
 #-------------------------------
